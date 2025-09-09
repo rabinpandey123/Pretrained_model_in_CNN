@@ -7,10 +7,10 @@ Both models are uploaded in this repository, and they can be used to predict cla
 
 ✨ Features
 
-✅ Uses pretrained ResNet50 and VGG16 models.
-✅ Supports image preprocessing and resizing before predictions.
-✅ Easy-to-use prediction scripts.
-✅ Can be extended for transfer learning on custom datasets.
+  ✅ Uses pretrained ResNet50 and VGG16 models.
+  ✅ Supports image preprocessing and resizing before predictions.
+  ✅ Easy-to-use prediction scripts.
+  ✅ Can be extended for transfer learning on custom datasets.
 
 🛠️ Technologies Used
 
