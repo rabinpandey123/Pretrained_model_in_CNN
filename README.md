@@ -15,6 +15,8 @@ Both models are uploaded in this repository, and they can be used to predict cla
 🛠️ Technologies Used
 
 Python
-TensorFlow / Keras
-NumPy, Pandas
+TensorFlow 
+keras
+NumPy
+pandas
 Matplotlib (for visualization)
