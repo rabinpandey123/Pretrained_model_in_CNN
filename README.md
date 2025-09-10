@@ -1,6 +1,7 @@
 🖼️ Image Classification using Pretrained CNN Models
 
 This project demonstrates image classification using two popular pretrained Convolutional Neural Network (CNN) models:
+
  ✅ ResNet50
  ✅ VGG16
 Both models are uploaded in this repository, and they can be used to predict classes of input images.
